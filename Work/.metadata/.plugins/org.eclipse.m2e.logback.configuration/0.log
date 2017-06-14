@@ -1,0 +1,19 @@
+2017-06-14 16:12:28,616 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: upacademy.grouproject:emed:0.0.1-SNAPSHOT @ /Users/alunotarde/Desktop/Projecto/UpAcademy-Group-Project/pom.xml.
+2017-06-14 16:12:28,616 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: upacademy.grouproject:emed:0.0.1-SNAPSHOT @ /Users/alunotarde/Desktop/Projecto/UpAcademy-Group-Project/pom.xml.
+2017-06-14 16:12:32,716 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-14 16:12:32,717 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alunotarde/Desktop/Projecto/UpAcademy-Group-Project/src/main/resources
+2017-06-14 16:12:32,721 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-14 16:12:32,721 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alunotarde/Desktop/Projecto/UpAcademy-Group-Project/src/test/resources
+2017-06-14 16:12:38,062 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: upacademy.grouproject:emed:0.0.1-SNAPSHOT @ /Users/alunotarde/Desktop/Projecto/UpAcademy-Group-Project/pom.xml.
+2017-06-14 16:12:41,643 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-14 16:12:41,658 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alunotarde/Desktop/Projecto/UpAcademy-Group-Project/src/main/resources
+2017-06-14 16:12:41,662 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-14 16:12:41,662 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alunotarde/Desktop/Projecto/UpAcademy-Group-Project/src/test/resources
+2017-06-14 16:26:21,877 [Worker-20] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for emed
+2017-06-14 16:26:23,618 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-14 16:26:23,619 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alunotarde/Desktop/Projecto/UpAcademy-Group-Project/src/main/resources
+2017-06-14 16:26:23,622 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-14 16:26:23,622 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alunotarde/Desktop/Projecto/UpAcademy-Group-Project/src/test/resources
+2017-06-14 16:26:23,624 [Worker-12] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of emed
+2017-06-14 16:26:23,745 [Worker-12] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for emed
+2017-06-14 16:26:24,099 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
